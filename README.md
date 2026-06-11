@@ -1,5 +1,20 @@
 # Rebels Animated Nodes for ComfyUI
 
+
+
+<img width="1694" height="873" alt="Screenshot (163)" src="https://github.com/user-attachments/assets/57d5c154-9b27-4f48-aa8c-1f1583ce87f7" />
+
+
+
+
+
+
+
+
+
+
+
+
 **Rebels Animated Nodes** is a complete aesthetic overhaul for your ComfyUI workspace.
 
 Tired of looking at boring gray boxes while your heavy quant models process? This custom node pack transforms your core ComfyUI workflow into a dynamic, animated, and color-coded dashboard. It includes animated wrappers for all major core nodes, custom text inputs, and a real-time **Matrix Execution Monitor** that tracks your generation steps directly on the canvas.
