@@ -38,7 +38,7 @@ Built by [Rebel AI](https://www.youtube.com/@realrebelai).
 1.  Navigate to your ComfyUI `custom_nodes` folder.
 2.  Clone this repository:
     ```bash
-    git clone [https://github.com/RealRebelAI/Rebels_Animated_Nodes.git](https://github.com/RealRebelAI/Rebels_Animated_Nodes.git)
+    git clone https://github.com/RealRebelAI/Rebels_Animated_Nodes.git
     ```
 3.  Restart your ComfyUI server.
 4.  **CRITICAL STEP:** Once ComfyUI loads in your browser, perform a **Hard Refresh** (`Ctrl + F5` on Windows or `Cmd + Shift + R` on Mac). *If you do not do this, your browser will cache old JavaScript and the animations will not load!*
